@@ -5,6 +5,10 @@
 	clear: left;
 	position: relative;
 }
+
+#access.title{
+color:red;}
+
 #main_visual #link_btn {
 	position: absolute;
 	left: 15px;
